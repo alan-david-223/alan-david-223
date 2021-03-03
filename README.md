@@ -3,15 +3,15 @@
 I'm studying development for mobile Apps at the Universidad de La Matanza. Although i'm inexperienced, I'm currently looking for my first job and reinforce all the knowledge I already got from my first year at Unlam.
 
    ## :palm_tree: Currently learning :palm_tree::
-- ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white&labelColor=5382a1 )
-- ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=ebebeb )
-- ![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white&labelColor=ebebeb )
+- ![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white&labelColor=f89820 )
+- ![HTML](https://img.shields.io/badge/HTML5-ebebeb?style=for-the-badge&logo=html5&logoColor=white&labelColor=e34c26 )
+- ![CSS](https://img.shields.io/badge/CSS3-ebebeb?style=for-the-badge&logo=css3&logoColor=white&labelColor=264de4 )
 - ![SQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00758F )
 
 
 ## :dragon_face: I'm working on :dragon_face: :
 - Learning to code games through the Godot engine.
-- I'm looking to learn C++ / C# as well
+- I'm looking to learn C++ and Javascript as well
 - I also make and mix my own music! I still have lots to learn, but I've uploaded some mixes to Soundcloud: https://soundcloud.com/aenris
 
 ## :mailbox_with_no_mail: Contact :mailbox_with_no_mail: :
