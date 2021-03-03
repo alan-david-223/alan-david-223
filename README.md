@@ -7,6 +7,8 @@ I'm studying development for mobile Apps at the Universidad de La Matanza. Altho
 - HTML
 - CSS
 - SQL
+- https://img.shields.io/badge/<https://simpleicons.org/icons/java.svg>-<Java>-<yellow>
+
 
 ## I'm working on:
 - Learning to code games through the Godot engine. 
