@@ -14,8 +14,8 @@ I'm studying development for mobile Apps at the Universidad de La Matanza. Altho
 - I also make and mix my own music!I still have lots to learn, but I've uploaded some mixes to Soundcloud: https://soundcloud.com/aenris
 
 ## Contact:
-E-mail! alandavid223@gmail.com
-LinkedIn: https://www.linkedin.com/in/alan-david-valdez-77966813a/
+- E-mail! alandavid223@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alan-david-valdez-77966813a/
 
 
 
