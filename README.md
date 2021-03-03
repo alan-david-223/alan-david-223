@@ -2,8 +2,11 @@
 
 I'm studying development for mobile Apps at the Universidad de La Matanza. Although i'm inexperienced, I'm currently looking for my first job and reinforce all the knowledge I already got from my first year at Unlam.
 
-## Skills:
-- I’m currently learning: Java, HTML, CSS, and SQL
+## Currently learning:
+-Java
+-HTML
+-CSS
+-SQL
 
 ## I'm working on:
 -Learning to code games through the Godot engine. 
