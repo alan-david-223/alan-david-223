@@ -11,8 +11,8 @@ I'm studying development for mobile Apps at the Universidad de La Matanza. Altho
 
 ## :dragon_face: I'm working on :dragon_face: :
 - Learning to code games through the Godot engine.
-- I looking to learn C++ / C# as well
-- I also make and mix my own music!I still have lots to learn, but I've uploaded some mixes to Soundcloud: https://soundcloud.com/aenris
+- I'm looking to learn C++ / C# as well
+- I also make and mix my own music! I still have lots to learn, but I've uploaded some mixes to Soundcloud: https://soundcloud.com/aenris
 
 ## :mailbox_with_no_mail: Contact :mailbox_with_no_mail: :
 - [![E-Mail](https://img.shields.io/badge/Gmail-alandavid223@gmail.com-3DDC84?style=for-the-badge&logo=gmail&logoColor=red&labelColor=101010)](mailto:alandavid223@gmail.com)
