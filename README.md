@@ -10,7 +10,7 @@ I'm studying development for mobile Apps at the Universidad de La Matanza. Altho
 
 
 ## :dragon_face: I'm working on :dragon_face: :
-- Studying development for Mobile devices in UNLAM. Currently learning Java and Data Bases.
+- Currently studying Java with Programación Básica 2 and Data Bases and MySQL in Base de Datos 1 at UNLAM.
 - I'm considering to learn C++ and Javascript as well
 - I also make and mix my own music! I still have lots to learn, but I've uploaded some mixes to Soundcloud: https://soundcloud.com/aenris
 
