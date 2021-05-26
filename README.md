@@ -10,8 +10,8 @@ I'm studying development for mobile Apps at the Universidad de La Matanza. Altho
 
 
 ## :dragon_face: I'm working on :dragon_face: :
-- Learning to code games through the Godot engine.
-- I'm looking to learn C++ and Javascript as well
+- Studying development for Mobile devices in UNLAM. Currently learning Java and Data Bases.
+- I'm considering to learn C++ and Javascript as well
 - I also make and mix my own music! I still have lots to learn, but I've uploaded some mixes to Soundcloud: https://soundcloud.com/aenris
 
 ## :mailbox_with_no_mail: Contact :mailbox_with_no_mail: :
