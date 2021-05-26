@@ -2,7 +2,7 @@
 
 I'm studying development for mobile Apps at the Universidad de La Matanza. Although i'm inexperienced, I'm currently looking for my first job and reinforce all the knowledge I already got from my first year at Unlam.
 
-   ## :palm_tree: Currently learning :palm_tree::
+   ## :palm_tree: Languages learned so far: :palm_tree::
 - ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=f89820&labelColor=101010 )
 - ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=e34c26&labelColor=101010 )
 - ![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=101010 )
