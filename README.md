@@ -4,9 +4,9 @@ I'm studying development for mobile Apps at the Universidad de La Matanza. Altho
 
    ## :palm_tree: Languages learned so far: :palm_tree::
 - ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=f89820&labelColor=101010 )
+- ![SQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=00758F&labelColor=101010 )
 - ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=e34c26&labelColor=101010 )
 - ![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=101010 )
-- ![SQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=00758F&labelColor=101010 )
 
 
 ## :dragon_face: I'm working on :dragon_face: :
